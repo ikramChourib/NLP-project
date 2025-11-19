@@ -1,0 +1,17 @@
+# sorties / modèles
+outputs/
+*.pt
+
+# fichiers système macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environnements
+.venv/
+venv/
+env/
